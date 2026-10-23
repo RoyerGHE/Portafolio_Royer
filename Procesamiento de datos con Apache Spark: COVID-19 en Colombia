@@ -1,0 +1,11 @@
+# Procesamiento de datos con Apache Spark: COVID-19 en Colombia
+Tarea 3 explicación y desarrollo de los puntos 2 y 3, en los que usando diversas herramientas se procesara y analizara una base de datos de dominio público, en este caso la base de datos tratara sobre los casos positivos de COVID-19 en Colombia.
+
+#Base de datos información
+| Información | |
+| Nombre | Casos positivos de COVID-19 en Colombia|
+| Fuente | Portal de Datos Abiertos del Estado Colombiano |
+| Formato de descarga| CSV | 
+|Procesamiento batch | Apache Spark |
+| Procesamiento en tiempo real | Apache Kafka |
+| Cantidad de registros seleccionados | 1000000 |
